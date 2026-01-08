@@ -1,0 +1,15 @@
+# EV Charging Desert Analysis - Python Dependencies
+
+# Core data analysis
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization
+plotly>=5.18.0
+
+# Jupyter notebook environment
+jupyter>=1.0.0
+notebook>=7.0.0
+
+# Optional: For static image export
+kaleido>=0.2.0
